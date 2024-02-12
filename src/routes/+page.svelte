@@ -1,7 +1,7 @@
 <h1 class="text-3xl font-bold">Hello world!</h1>
 
 <style lang="postcss">
-  :global(html) {
+  /* :global(html) {
     background-color: theme(colors.cyan.100);
-  }
+  } */
 </style>
