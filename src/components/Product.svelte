@@ -4,7 +4,7 @@
   let productFeatures = [
     {
       featureList: [
-        "Daily Workout",
+        "Daily Workoutiiii",
         "Be Strong",
         "Be Healthy",
         "Effective Work",
