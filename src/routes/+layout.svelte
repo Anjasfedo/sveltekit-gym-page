@@ -1,13 +1,7 @@
 <script>
   import "../app.css";
+  import Footer from "../components/Footer.svelte";
 </script>
 
 <slot />
-
-<!-- header -->
-<!-- hero -->
-<!-- product desc -->
-<!-- user review -->
-<!-- faq -->
-<!-- conversion -->
-<!-- footer -->
+<Footer />
